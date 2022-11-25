@@ -7,6 +7,7 @@ Command line tool for managing a list of "to-do" items. it will keep track of it
    * `-list`: A boolean flag to list all to-do items
    * `-task`: a String flag to add new task to the list
    * `-complete`: An integer flag, to mark a task number as completed using task number
+   * `-del`: An integer flag, to remove an item from a list
     
 ---
 1.  add new task
